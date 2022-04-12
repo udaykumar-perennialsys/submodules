@@ -1,4 +1,7 @@
-# neob-1
+# neob-1(git submodule)
+
+This project setup is for the git #sub-modules, like how we can add the another repository or third party library into our project and have acces of the code
+ 
 
 ## Project setup
 ```
