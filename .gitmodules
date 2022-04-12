@@ -1,0 +1,6 @@
+[submodule "src/framework/sub-modules"]
+	path = src/framework/sub-modules
+	url = https://github.com/udaykumar-perennialsys/repo-1
+[submodule "src/framework/utils"]
+	path = src/framework/utils
+	url = https://github.com/udaykumar-perennialsys/repo-2
