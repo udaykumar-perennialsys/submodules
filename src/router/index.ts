@@ -21,6 +21,11 @@ const routes: Array<RouteConfig> = [
     name: "cart",
     component: () => import("@/framework/sub-modules/pages/Cart.vue"),
   },
+  {
+    path: "/add-new-product",
+    name: "ADD_NEW_PRODUCT",
+    component: () => import("@/framework/sub-modules/pages/NewProduct.vue"),
+  },
 ];
 
 const router = new VueRouter({
